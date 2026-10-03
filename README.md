@@ -55,9 +55,9 @@ I build cross-platform mobile apps with **Flutter** and full-stack web platforms
 
 ---
 
-### 📌 Experience
+### 📌 Training
 
-**Flutter Developer** at ProgRhyming Company (Nov 2023 – Aug 2024)<br>
+**Flutter Trainee** at ProgRhyming Company (Nov 2023 – Aug 2024)<br>
 Built 8+ UI screens, integrated REST APIs with Dio (pagination and error handling), and applied Cubit (BLoC) with MVVM architecture.
 
 **Bytes4Future (B4F), Aga Khan Foundation**: 425+ hours of MERN Stack training (2026)
