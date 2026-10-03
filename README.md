@@ -4,7 +4,7 @@
 
 I build cross-platform mobile apps with **Flutter** and full-stack web platforms with **React.js, Node.js, Express.js, and MongoDB**, from REST APIs and authentication to dashboards and real-time notifications.
 
-- 🔭 Latest project: **[Feniq](https://github.com/YazanAljundy/Feniq-Pharmacy-Platform)**, a pharmacy supply and order management platform connecting pharmacies with pharmaceutical warehouses (Flutter app, React.js dashboard, Node.js backend)
+- 🔭 Latest project: **[B2B Pharmacy Supply Platform](https://github.com/YazanAljundy/pharmacy-supply-platform)**, connecting pharmacies with pharmaceutical warehouses (Flutter app, React.js dashboard, Node.js backend)
 - 🏆 Specialist on **Codeforces** (1500+ problems solved), ICPC participant
 - 👨‍🏫 Mentored and guided 100+ students in problem solving and algorithms
 - 🎓 ITE student at Tishreen University, Syria
@@ -47,7 +47,7 @@ I build cross-platform mobile apps with **Flutter** and full-stack web platforms
 
 | Project | Description | Stack |
 |---|---|---|
-| **[Feniq Pharmacy Management Platform](https://github.com/YazanAljundy/Feniq-Pharmacy-Platform)** | Pharmacy supply and order management platform: Flutter app for pharmacies, React.js Admin & Warehouse Dashboard, role-based access for Admin, Warehouse, and Pharmacy users, and real-time order notifications. | Flutter, React.js, Node.js, Express.js, MongoDB, FCM, JWT |
+| **[B2B Pharmacy Supply Platform](https://github.com/YazanAljundy/pharmacy-supply-platform)** | Pharmacy supply and order management platform: Flutter app for pharmacies, React.js Admin & Warehouse Dashboard, role-based access for Admin, Warehouse, and Pharmacy users, and real-time order notifications. | Flutter, React.js, Node.js, Express.js, MongoDB, FCM, JWT |
 | **Voice Chat Application** | Real-time voice chat with room join/leave, token-based authentication, and auto-reconnect. Led a team of 4 developers. | Flutter, Socket.IO, Cubit (BLoC) |
 | **[Car Rental Backend](https://github.com/YazanAljundy/CAR-RENTAL-BACKEND)** | Modular REST API for a car rental platform: cars, offices, rental requests, dashboard statistics, role-based access, and Swagger API docs. | Node.js, Express.js, MongoDB, JWT, Joi, Swagger |
 | **Hotel Management & Reservation System** | RESTful backend services with hotel hall booking and frontend integration. | Node.js, Express.js |
